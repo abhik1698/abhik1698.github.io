@@ -3,7 +3,7 @@
         <title>&lt;Git.h&gt;</title>
     </head>
     <body>
-        <h1>Don't Wait for ittt....</h1>
+        <h1>Don't Wait for</h1>
         <?=  "Abhi"; ?>
     </body>
 </html>
